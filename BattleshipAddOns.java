@@ -2,7 +2,6 @@
 //Date: Friday, February 20, 2015
 //Title: Battleship
 //Purpose: to generate a program that utilized methods and matrices to simuluate a one player game of battleShip
-package tasks;
 import java.util.*;
 public class BattleshipAddOns {
 	//creating global variable to store where the ships will go
